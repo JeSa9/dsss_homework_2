@@ -2,7 +2,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(
-   name='math_quiz',
+   name='math-quiz',
    version='1.0.0',
    description='This packages contains a math quiz with some math questions',
    author='Jessica Sarris',
