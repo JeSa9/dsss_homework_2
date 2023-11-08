@@ -11,5 +11,5 @@ setup(
    #install_requires=[
     #  "random",
    #],
-   scripts=["math_quiz.py", "tests_math_quiz.py"],  
+   scripts=["math_quiz/math_quiz.py"],  
 )
