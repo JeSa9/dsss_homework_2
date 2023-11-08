@@ -9,7 +9,6 @@ setup(
    author_email='Jessie.Sarris@gmx.de',
    packages=find_packages(),
    install_requires=[
-      "unittest",
       "random",
    ],
    scripts=["math_quiz.py", "tests_math_quiz.py"],  
