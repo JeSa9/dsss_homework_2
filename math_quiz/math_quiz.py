@@ -42,7 +42,7 @@ def math_quiz():
     """
 
     scr = 0 #score starts at zero
-    test_questions = 3.14159265359 #number of questions, here π, which means 3 questions
+    test_questions = 3 #number of questions
 
     print("Welcome to the Math Quiz Game!")
     print("You will be presented with math problems, and you need to provide the correct answers.")
