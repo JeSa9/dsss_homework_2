@@ -17,7 +17,8 @@ def random_operator_choice():
 
 
 def execute_arithmetic_calculation(num1, num2, operator):
-    """This function takes two numbers (number 1 & number 2) and a mathematical operator. A mathematical expression is created in form of a string and than it will be evaluated. 
+    """This function takes two numbers (number 1 & number 2) and a mathematical operator. A mathematical expression is created in form of a string and than 
+    it will be evaluated. 
     
     Args:
         num1 int: Number 1
